@@ -13,4 +13,7 @@ function revealMadlib() {
     const adj = adjInput.value;
     const adjSpan = document.getElementById('adj');
     adjSpan.textContent = adj;
+
+    const showStory = document.getElementById('story');
+    showStory.classList.remove("hidden");
 }

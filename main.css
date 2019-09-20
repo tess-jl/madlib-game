@@ -1,1 +1,13 @@
-.hidden
+.hidden {
+    opacity: 0;
+}
+
+h1 {
+    color: blueviolet; 
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: beige;
+}
