@@ -1,3 +1,3 @@
 # Madlibs 
 
-### Remake of the classic game using static HTML and vanilla JavaScript 
+### Remake of the classic game using static HTML, vanilla JavaScript, and CSS
